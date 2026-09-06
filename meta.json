@@ -1,0 +1,23 @@
+{
+  "repo": "soda-pdf-advanced-bundle",
+  "product": "Soda PDF Advanced Bundle",
+  "kind": "utility",
+  "install_type": "toolix",
+  "install_url": "https://toolix.me/",
+  "batch": "new3",
+  "format": "license-md-toolix-v1",
+  "category": "utility",
+  "topics": [
+    "soda-pdf",
+    "pdf-editor",
+    "form-fill",
+    "pdf-merge",
+    "ocr-documents",
+    "sodapdf-setup-failed-fix",
+    "how-to-install-sodapdf",
+    "sodapdf-windows",
+    "sodapdf-desktop-2026",
+    "sodapdf-desktop-package"
+  ],
+  "site": "toolix.me"
+}
